@@ -15,6 +15,9 @@ EDA was conducted to gain insights into the data. Key findings include:
 - Senior citizens have a higher churn rate compared to other customers (41%).
 - Tenure has a negative correlation with churn, suggesting that longer tenure reduces the likelihood of churn.
 
+### Feature Selection
+By applying logistic regression (StatsModel), I was able to identify two features which had high p-values and therefore leading to high variance inflation factors and were removed for a better fit model. 
+
 ### Modeling
 Two models were applied for customer churn prediction:
 
