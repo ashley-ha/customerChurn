@@ -22,8 +22,9 @@ By applying logistic regression (StatsModel), I was able to identify two feature
 Two models were applied for customer churn prediction:
 
 - Logistic Regression: After feature selection and optimization of the threshold value, the model achieved an accuracy of approximately 76.54%.
-- Linear Discriminant Analysis (LDA): LDA was also used to predict churn, resulting in an accuracy of about 78.58%.
-Feature Importance
+- Linear Discriminant Analysis (LDA): LDA was also used to predict churn, resulting in an accuracy of about 78.58%. (Because of the limited data in our dataset, higher accuracy is difficult and it is my recommendation that we gather more data on the users (ex: platforms used, specific services utilized, dependents or no dependents, & demographic imformation). This will likely improve my ability to predict customer churn more effectively and with higher accuracy. 
+  
+Feature Importance:
 - The most significant feature for predicting churn was whether the customer is a senior citizen. Other influential factors included the type of internet service and payment method.
 
 ### Conclusion
