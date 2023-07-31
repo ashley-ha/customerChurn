@@ -6,7 +6,7 @@ Date: Feberuary 20th, 2023
 This project focuses on predicting customer churn for a cellphone company using machine learning techniques. The dataset contains information about customers and whether they stayed or left the company. The goal is to build a predictive model that can help identify customers who are likely to churn, allowing the company to take proactive measures to retain them.
 
 ### Dataset
-The dataset consists of 7032 entries and 7 columns, including information such as monthly charges, senior citizen status, payment method, internet service type, tenure, and contract type. Data cleaning has been performed prior to the analysis.
+The dataset consists of 7032 entries and 7 columns, including information such as monthly charges, senior citizen status, payment method, internet service type, tenure, and contract type. Note: Data cleaning has been performed prior to the analysis.
 
 ### Exploratory Data Analysis (EDA)
 EDA was conducted to gain insights into the data. Key findings include:
